@@ -1,0 +1,12 @@
+
+Raw Node JS Project
+
+Title: Uptime Monitoring API
+
+1. Start the API server
+2. Create,Edit,Delete User
+3. Token Based Authentication
+4. Logout Mechanism
+5. Set links & up/down limit
+6. Edit/Delete & rate limit
+7. Check up/down times
